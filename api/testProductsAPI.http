@@ -1,0 +1,12 @@
+
+//Get main page
+GET http://localhost:9000
+###
+
+//Get all products 
+GET http://localhost:9000/products HTTP/1.1
+
+###
+//Get a single product 
+GET http://localhost:9000/products/2
+

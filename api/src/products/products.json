@@ -1,0 +1,235 @@
+[
+        {
+        "name": "Albatross",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/albatross.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Medium",
+        "price": 450.00,
+        "id": 1,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Bald Eagle",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/bald_eagle.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Medium",
+        "price": 899.95,
+        "id": 2,
+        "isOffer": "" 
+        },
+        {
+        "name": "Blue Jay",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/blue_j.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 250.00,
+        "id": 3,
+        "isOffer": "" 
+        },
+        {
+        "name": "Blue footed Booby",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/blue-footed_booby.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 399.95,
+        "id": 4,
+        "isOffer": "" 
+        },
+        {
+        "name": "Dee",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/dee.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Large",
+        "price": 1500.00,
+        "id": 5,
+        "isOffer": "" 
+        },
+        {
+        "name": "Donald Duck",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/donald_duck.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Large",
+        "price": 9000.00,
+        "id": 6,
+        "isOffer": "" 
+        },
+        {
+        "name": "Duck",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/duck.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 100.00,
+        "id": 7,
+        "isOffer": "" 
+        },
+        {
+        "name": "Heron",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/heron.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Medium",
+        "price": 500.00,
+        "id": 8,
+        "isOffer": "" 
+        },
+        {
+        "name": "Iago",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/iago.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Medium",
+        "price": 2050.00,
+        "id": 9,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Kevin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/kevin.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Large",
+        "price": 6300.00,
+        "id": 10,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Lugia",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/lugia.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Large",
+        "price": 4000.00,
+        "id": 11,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Owl",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/owl.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 1200.00,
+        "id": 12,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Parrot",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/parrot.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 750.00,
+        "id": 13,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Phoenix",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/phoenix.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Large",
+        "price": 900.00,
+        "id": 14,
+        "isOffer": "" 
+        },
+        {
+        "name": "Pidgey",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/pidgey.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 2999.95,
+        "id": 15,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Polish Cock",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/polish_cock.png",
+        "origin": "Real",
+        "state": "Hatched",
+        "size": "Small",
+        "price": 1000.00,
+        "id": 16,
+        "isOffer": "" 
+        },
+        {
+        "name": "Zazu",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/zazu.png",
+        "origin": "Imaginary",
+        "state": "Hatched",
+        "size": "Medium",
+        "price": 3100.00,
+        "id": 17,
+        "isOffer": "" 
+        },
+        {
+        "name": "Zazu (egg)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/egg.gif",
+        "origin": "Imaginary",
+        "state": "Unhatched",
+        "size": "Medium",
+        "price": 1800.00,
+        "id": 18,
+        "isOffer": "" 
+        },
+        {
+        "name": "Polis cock (egg)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/egg.gif",
+        "origin": "Real",
+        "state": "Unhatched",
+        "size": "Small",
+        "price": 500.00,
+        "id": 19,
+        "isOffer": "" 
+        },
+        {
+        "name": "Lugia (egg)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/egg.gif",
+        "origin": "Imaginary",
+        "state": "Unhatched",
+        "size": "Large",
+        "price": 2000.00,
+        "id": 20,
+        "isOffer": "offer" 
+        },
+        {
+        "name": "Duck (egg)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+        "imgURL": "images/egg.gif",
+        "origin": "Real",
+        "state": "Unhatched",
+        "size": "Small",
+        "price": 50.00,
+        "id": 21,
+        "isOffer": "offer" 
+        }
+]
+
+

@@ -1,0 +1,73 @@
+//Get all baskets (Works)
+GET http://localhost:9000/baskets
+
+###
+//Get one basket
+GET http://localhost:9000/baskets/1
+
+
+###
+DELETE  http://localhost:9000/baskets/1
+
+###
+PUT http://localhost:9000/baskets/1 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "products":[{
+    "name": "Bald Eagle 76",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+    "imgURL": "images/bald_eagle.png",
+    "origin": "real",
+    "state": "hatched",
+    "size": "medium",
+    "price": 899.95,
+    "id": 8,
+    "isOffer": "" 
+    }]
+}
+
+###
+
+POST http://localhost:9000/baskets/1 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "products":[{
+    "name": "Bald Eagle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+    "imgURL": "images/bald_eagle.png",
+    "origin": "real",
+    "state": "hatched",
+    "size": "medium",
+    "price": 899.95,
+    "id": 2,
+    "isOffer": "" 
+    },
+    {
+    "name": "Blue Jay",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+    "imgURL": "images/blue_j.png",
+    "origin": "imaginary",
+    "state": "hatched",
+    "size": "small",
+    "price": 250.00,
+    "id": 3,
+    "isOffer": "" 
+    },
+    {
+    "name": "Blue Jay",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel finibus lorem, in venenatis augue. Nam non nibh nunc. In id orci lobortis, suscipit odio a, eleifend dolor. Mauris sapien metus, faucibus maximus velit id, maximus lacinia nibh. Nunc non nisl at lectus porta posuere vel a erat. Quisque ut rutrum tortor. Cras vel lacus quam. Phasellus sagittis, dui a dapibus consectetur, nibh sem pellentesque ipsum, nec tempor libero leo tincidunt tortor. Mauris ultrices ullamcorper risus sed auctor.",
+    "imgURL": "images/blue_j.png",
+    "origin": "imaginary",
+    "state": "hatched",
+    "size": "small",
+    "price": 250.00,
+    "id": 3,
+    "isOffer": "" 
+    }]
+}
+
+###

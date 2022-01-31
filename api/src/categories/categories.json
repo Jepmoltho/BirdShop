@@ -1,0 +1,5 @@
+[
+  { "name": "origin", "id":1, "possibleValues": ["Real", "Imaginary"] },
+  { "name": "state","id":2, "possibleValues": ["Hatched", "Unhatched"] },
+  { "name": "size", "id":3, "possibleValues": ["Small", "Medium", "Large"] }
+]

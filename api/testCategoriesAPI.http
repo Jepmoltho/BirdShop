@@ -1,0 +1,21 @@
+
+###
+//Get all categories
+
+GET http://localhost:9000/category
+
+###
+//Get category by id
+GET http://localhost:9000/category/1
+
+###
+//Get all products by category origin
+GET http://localhost:9000/products/origin/Real
+
+###
+//Get all products by category state
+GET http://localhost:9000/products/state/Hatched
+
+###
+//Get all products by category size
+GET http://localhost:9000/products/size/Small

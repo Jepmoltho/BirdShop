@@ -1,0 +1,22 @@
+PUT http://localhost:9000/user/1 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "name": "Victor",
+    "email": "test@test.dk"
+
+}
+
+###
+POST http://localhost:9000/user/2 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 2,
+    "name": "Bald Eagle 76",
+    "email": "tes2t@test.dk"
+
+}
+###
+GET http://localhost:9000/user
